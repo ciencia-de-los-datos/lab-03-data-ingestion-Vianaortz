@@ -8,9 +8,13 @@ por guiones bajos; y que las palabras clave deben estar separadas por coma y con
 espacio entre palabra y palabra.
 
 
+
 """
 def ingest_data():
 
+    import pandas as pd
+    import re
+    
     #
     # Inserte su código aquí
     #
